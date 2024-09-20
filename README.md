@@ -10,3 +10,7 @@ git config --list
 Basic Commands :
 git clone <- some link->
 git status
+git add file_name  // eg : git add index.html
+git add . // use to add all files
+git commit -m "some message" // eg : git commit -m "Add new files"
+git push origin main
